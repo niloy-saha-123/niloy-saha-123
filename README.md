@@ -1,18 +1,23 @@
 # Niloy Saha
-Software Developer | Computer Science & Data Analytics @Dickinson College
+### Software Developer | Computer Science & Data Analytics @Dickinson College
 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahan@dickinson.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloysaha2404@gmail.com)
+
+</div>
 
 ## 👨‍💻 About Me
 - 🎓 Currently pursuing Computer Science and Data Analytics at Dickinson College
 - 🌱 Exploring AI/ML and Full Stack Development
+- 🚀 Building AI-powered learning solutions 
 
 ## 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,5 +40,13 @@ Software Developer | Computer Science & Data Analytics @Dickinson College
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
+## 📊 GitHub Stats
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=niloy-saha-123&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloy-saha-123&theme=tokyonight&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-saha-123&layout=compact&theme=tokyonight)
+
+</div>
