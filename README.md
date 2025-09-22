@@ -1,8 +1,8 @@
 # Niloy Saha
-### Software Developer | Computer Science & Data Analytics @Dickinson College
+### Software Developer | Computer Science & Data Analytics @ Dickinson College
 
 <div align="center">
-  
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloysaha24/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahan@dickinson.edu)
 
@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About Me
 - 🎓 Junior at **Dickinson College**, majoring in **Computer Science** and **Data Analytics**
-- 🌱 Exploring **AI/ML** and **Full Stack Development**
-- 🚀 Building AI-powered learning solutions
-- 💡 Passionate about creating innovative solutions using technology
+- 🌱 Currently exploring **AI/ML** and **Full Stack Development**
+- 🚀 Working on **AI-powered learning solutions**
+- 💡 Passionate about building innovative solutions using technology
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -39,7 +39,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -49,11 +49,10 @@
 ### Database & Backend
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.dev/)
 [![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
-
 
 ### Development & Deployment Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -78,13 +77,13 @@
 ### StudyBuddy - AI-Powered Learning Platform
 - AI-powered platform transforming lecture content into structured study materials
 - Technologies: Next.js, TypeScript, Tailwind CSS, AI APIs
-- 98% accuracy in AI transcription, serving 50+ active users
+- ~98% accuracy in AI transcription, serving 50+ active users
 - [View Project](https://studybuddy-e7ys.onrender.com)
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloy-saha-123&theme=tokyonight&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-saha-123&layout=compact&theme=tokyonight)
 
@@ -95,12 +94,12 @@
 ## 📊 Contribution Graph
 
 <div align="center">
-  
+  
 [![Niloy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niloy-saha-123&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ## 🤝 Connect & Collaborate
-- Open to collaboration on ML/AI projects
-- Interested in full-stack development opportunities
-- Looking to contribute to open-source projects
+- Open to collaboration on **ML/AI projects**
+- Interested in **full-stack development opportunities**
+- Looking to contribute to **open-source projects**
