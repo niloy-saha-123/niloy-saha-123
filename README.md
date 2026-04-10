@@ -48,7 +48,7 @@ I'm a Computer Science and Data Analytics student at Dickinson College with a pa
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Off_the_clock-CECBF6?style=flat-square&logoColor=3C3489" /></td>
-    <td>Travelling &nbsp;·&nbsp; Movies &amp; Shows &nbsp;·&nbsp; Harry Potter &amp; Marvel</td>
+    <td>Travelling &nbsp;·&nbsp; Movies &amp; Shows &nbsp;·&nbsp; Music</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Ask_me_about-FAC775?style=flat-square&logoColor=854F0B" /></td>
