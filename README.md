@@ -1,10 +1,9 @@
-<!-- Header -->
 <div align="center">
 
-# Niloy Saha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,50:534AB7,100:3B6D11&height=140&section=header&text=Niloy%20Saha&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=CS+%26+Data+Analytics+%40+Dickinson+College;Full-Stack+Developer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=520&lines=CS+%26+Data+Analytics+%40+Dickinson+College;Full-Stack+Developer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
 </p>
 
 <p>
@@ -19,7 +18,20 @@
 
 </div>
 
----
+<br>
+
+<!-- Quote -->
+<div align="center">
+
+*" I don't just write code — I craft experiences, architect systems, and make machines think. "*
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+
+<br>
 
 ## &nbsp; About
 
@@ -44,7 +56,32 @@ I'm a Computer Science and Data Analytics student at Dickinson College with a pa
   </tr>
 </table>
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+<br>
+
+## &nbsp; Currently Building
+
+> Building at the intersection of **AI** and **great software** — turning ideas into products people actually use.
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Focus-B5D4F4?style=flat-square&logoColor=185FA5"/>
+      <br><br>
+      Agentic AI workflows &nbsp;·&nbsp; LLM-powered tooling &nbsp;·&nbsp; Production-grade full-stack apps
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Learning-CECBF6?style=flat-square&logoColor=534AB7"/>
+      <br><br>
+      RAG pipelines &nbsp;·&nbsp; Model fine-tuning &nbsp;·&nbsp; Distributed systems
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+<br>
 
 ## &nbsp; Tech Stack
 
@@ -144,7 +181,9 @@ I'm a Computer Science and Data Analytics student at Dickinson College with a pa
   <img src="https://img.shields.io/badge/Codex-D3D1C7?style=flat-square&logo=openai&logoColor=2C2C2A"/>
 </p>
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+<br>
 
 ## &nbsp; GitHub Stats
 
@@ -158,7 +197,9 @@ I'm a Computer Science and Data Analytics student at Dickinson College with a pa
 
 </div>
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+<br>
 
 ## &nbsp; Contribution Graph
 
@@ -168,29 +209,22 @@ I'm a Computer Science and Data Analytics student at Dickinson College with a pa
 
 </div>
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+<br>
 
-## &nbsp; Let's Build Something
+## &nbsp; Contribution Snake
 
-I'm always open to interesting conversations, collaborations, and opportunities.
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/AI_%2F_ML_Collab-C0DD97?style=flat-square&logoColor=3B6D11"/>
-  <img src="https://img.shields.io/badge/Full--Stack_Roles-B5D4F4?style=flat-square&logoColor=185FA5"/>
-  <img src="https://img.shields.io/badge/Open_Source-CECBF6?style=flat-square&logoColor=534AB7"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niloy-saha-123/niloy-saha-123/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niloy-saha-123/niloy-saha-123/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/niloy-saha-123/niloy-saha-123/output/github-snake.svg"/>
+</picture>
 
-<p>
-  <a href="https://www.linkedin.com/in/niloysaha24/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-B5D4F4?style=flat-square&logo=linkedin&logoColor=185FA5"/>
-  </a>&nbsp;
-  <a href="mailto:sahan@dickinson.edu">
-    <img src="https://img.shields.io/badge/Send_an_Email-F7C1C1?style=flat-square&logo=gmail&logoColor=A32D2D"/>
-  </a>
-</p>
+</div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Crafted_with_taste_%E2%80%94_not_just_code-F1EFE8?style=flat-square&logoColor=444441" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B6D11,50:534AB7,100:185FA5&height=100&section=footer" width="100%"/>
