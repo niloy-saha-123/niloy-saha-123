@@ -1,105 +1,196 @@
+<!-- Header -->
+<div align="center">
+
 # Niloy Saha
-### Software Developer | Computer Science & Data Analytics @ Dickinson College
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloysaha24/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahan@dickinson.edu)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=CS+%26+Data+Analytics+%40+Dickinson+College;Full-Stack+Developer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=niloy-saha-123&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
-</div>
-
-## 👨‍💻 About Me
-- 🎓 Junior at **Dickinson College**, majoring in **Computer Science** and **Data Analytics**
-- 🌱 Currently exploring **AI/ML** and **Full Stack Development**
-- 🚀 Working on **AI-powered learning solutions**
-- 💡 Passionate about building innovative solutions using technology
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=niloy-saha-123&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <a href="https://www.linkedin.com/in/niloysaha24/">
+    <img src="https://img.shields.io/badge/LinkedIn-B5D4F4?style=flat-square&logo=linkedin&logoColor=185FA5" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:sahan@dickinson.edu">
+    <img src="https://img.shields.io/badge/Email-F7C1C1?style=flat-square&logo=gmail&logoColor=A32D2D" alt="Email"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=niloy-saha-123&style=flat-square&color=C0DD97&label=profile+views" alt="Profile Views"/>
+</p>
 
 </div>
 
-## 🛠 Tech Stack
+---
 
-### Languages & Core Technologies
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## &nbsp; About
 
-### Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+I'm a Computer Science and Data Analytics student at Dickinson College with a passion for **AI**, **machine learning**, and **large language models**. I combine full-stack engineering with data-driven thinking to build products that are fast, thoughtful, and built to last.
 
-### Database & Backend
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.dev/)
-[![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
+&nbsp;&nbsp;&nbsp; `cs + data analytics` &nbsp;·&nbsp; `dickinson college` &nbsp;·&nbsp; `class of 2026`
 
-### Development & Deployment Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+<br>
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Currently_into-C0DD97?style=flat-square&logoColor=27500A" /></td>
+    <td>LLMs &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Full-Stack Products</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Off_the_clock-CECBF6?style=flat-square&logoColor=3C3489" /></td>
+    <td>Travelling &nbsp;·&nbsp; Movies &amp; Shows &nbsp;·&nbsp; Harry Potter &amp; Marvel</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Ask_me_about-FAC775?style=flat-square&logoColor=854F0B" /></td>
+    <td>Building AI-powered apps &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; System design</td>
+  </tr>
+</table>
+
+---
+
+## &nbsp; Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-B5D4F4?style=flat-square&logo=python&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/TypeScript-C0DD97?style=flat-square&logo=typescript&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/JavaScript-FAC775?style=flat-square&logo=javascript&logoColor=854F0B"/>
+  <img src="https://img.shields.io/badge/Java-F5C4B3?style=flat-square&logo=openjdk&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/SQL-CECBF6?style=flat-square&logo=postgresql&logoColor=534AB7"/>
+  <img src="https://img.shields.io/badge/HTML-F5C4B3?style=flat-square&logo=html5&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/CSS-B5D4F4?style=flat-square&logo=css3&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/C-D3D1C7?style=flat-square&logo=c&logoColor=444441"/>
+  <img src="https://img.shields.io/badge/R-C0DD97?style=flat-square&logo=r&logoColor=3B6D11"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-B5D4F4?style=flat-square&logo=react&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/Next.js-D3D1C7?style=flat-square&logo=nextdotjs&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/Vue.js-C0DD97?style=flat-square&logo=vuedotjs&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-B5D4F4?style=flat-square&logo=tailwindcss&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/React_Native-B5D4F4?style=flat-square&logo=react&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/Expo-D3D1C7?style=flat-square&logo=expo&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/Vite-CECBF6?style=flat-square&logo=vite&logoColor=534AB7"/>
+  <img src="https://img.shields.io/badge/Axios-F5C4B3?style=flat-square&logo=axios&logoColor=993C1D"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-C0DD97?style=flat-square&logo=nodedotjs&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Express.js-D3D1C7?style=flat-square&logo=express&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/FastAPI-C0DD97?style=flat-square&logo=fastapi&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Django-C0DD97?style=flat-square&logo=django&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Fastify-D3D1C7?style=flat-square&logo=fastify&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/tRPC-B5D4F4?style=flat-square&logo=trpc&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FAC775?style=flat-square&logoColor=854F0B"/>
+  <img src="https://img.shields.io/badge/Prisma_ORM-D3D1C7?style=flat-square&logo=prisma&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/Django_ORM-C0DD97?style=flat-square&logo=django&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/JWT-D3D1C7?style=flat-square&logo=jsonwebtokens&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/Clerk-CECBF6?style=flat-square&logo=clerk&logoColor=534AB7"/>
+  <img src="https://img.shields.io/badge/WebSockets-FAC775?style=flat-square&logoColor=854F0B"/>
+</p>
+
+### Data & ML
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-F5C4B3?style=flat-square&logo=pytorch&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-FAC775?style=flat-square&logo=scikitlearn&logoColor=854F0B"/>
+  <img src="https://img.shields.io/badge/NumPy-B5D4F4?style=flat-square&logo=numpy&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/Pandas-CECBF6?style=flat-square&logo=pandas&logoColor=534AB7"/>
+  <img src="https://img.shields.io/badge/Matplotlib-B5D4F4?style=flat-square&logo=python&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-C0DD97?style=flat-square&logoColor=3B6D11"/>
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-B5D4F4?style=flat-square&logo=postgresql&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/MySQL-B5D4F4?style=flat-square&logo=mysql&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/MongoDB-C0DD97?style=flat-square&logo=mongodb&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Supabase-C0DD97?style=flat-square&logo=supabase&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Redis-F5C4B3?style=flat-square&logo=redis&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/AWS-FAC775?style=flat-square&logo=amazonaws&logoColor=854F0B"/>
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F5C4B3?style=flat-square&logo=git&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/Docker-B5D4F4?style=flat-square&logo=docker&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-D3D1C7?style=flat-square&logo=githubactions&logoColor=444441"/>
+  <img src="https://img.shields.io/badge/Postman-F5C4B3?style=flat-square&logo=postman&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/Bash-D3D1C7?style=flat-square&logo=gnubash&logoColor=444441"/>
+  <img src="https://img.shields.io/badge/MCP-CECBF6?style=flat-square&logoColor=534AB7"/>
+</p>
 
 ### Testing
-*Experienced in both **Unit Testing** and **End-to-End (E2E) Testing** with the following tools:*
+
+<p>
+  <img src="https://img.shields.io/badge/Cypress-D3D1C7?style=flat-square&logo=cypress&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/Vitest-C0DD97?style=flat-square&logo=vitest&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Selenium-C0DD97?style=flat-square&logo=selenium&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/PyTest-B5D4F4?style=flat-square&logo=pytest&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/JUnit-F5C4B3?style=flat-square&logo=junit5&logoColor=993C1D"/>
+</p>
+
+### AI Coding
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-F5C4B3?style=flat-square&logo=anthropic&logoColor=993C1D"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-D3D1C7?style=flat-square&logo=githubcopilot&logoColor=2C2C2A"/>
+  <img src="https://img.shields.io/badge/Cursor-CECBF6?style=flat-square&logoColor=534AB7"/>
+  <img src="https://img.shields.io/badge/Codex-D3D1C7?style=flat-square&logo=openai&logoColor=2C2C2A"/>
+</p>
+
+---
+
+## &nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=niloy-saha-123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=niloy-saha-123&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## &nbsp; Contribution Graph
+
+<div align="center">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niloy-saha-123&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## &nbsp; Let's Build Something
+
+I'm always open to interesting conversations, collaborations, and opportunities.
+
+<p>
+  <img src="https://img.shields.io/badge/AI_%2F_ML_Collab-C0DD97?style=flat-square&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Full--Stack_Roles-B5D4F4?style=flat-square&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/Open_Source-CECBF6?style=flat-square&logoColor=534AB7"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/niloysaha24/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-B5D4F4?style=flat-square&logo=linkedin&logoColor=185FA5"/>
+  </a>&nbsp;
+  <a href="mailto:sahan@dickinson.edu">
+    <img src="https://img.shields.io/badge/Send_an_Email-F7C1C1?style=flat-square&logo=gmail&logoColor=A32D2D"/>
+  </a>
+</p>
+
 <br>
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
-[![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
-
-## 🚀 Featured Projects
-
-### StudyBuddy - AI-Powered Learning Platform
-- AI-powered platform transforming lecture content into structured study materials
-- Technologies: Next.js, TypeScript, Tailwind CSS, AI APIs
-- ~98% accuracy in AI transcription, serving 50+ active users
-- [View Project](https://studybuddy-e7ys.onrender.com)
-
-## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloy-saha-123&theme=tokyonight&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-saha-123&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niloy-saha-123&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://img.shields.io/badge/Crafted_with_taste_%E2%80%94_not_just_code-F1EFE8?style=flat-square&logoColor=444441" />
 </div>
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-[![Niloy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niloy-saha-123&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🤝 Connect & Collaborate
-- Open to collaboration on **ML/AI projects**
-- Interested in **full-stack development opportunities**
-- Looking to contribute to **open-source projects**
