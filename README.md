@@ -35,7 +35,7 @@
 
 ## &nbsp; About
 
-I'm a Computer Science and Data Analytics student at Dickinson College with a passion for **AI**, **machine learning**, and **large language models**. I combine full-stack engineering with data-driven thinking to build products that are fast, thoughtful, and built to last.
+Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickinson College with a passion for **AI**, **machine learning**, and **large language models**. I combine full-stack engineering with data-driven thinking to build products that are fast, thoughtful, and built to last.
 
 &nbsp;&nbsp;&nbsp; `cs + data analytics` &nbsp;·&nbsp; `dickinson college` &nbsp;·&nbsp; `class of 2027`
 
