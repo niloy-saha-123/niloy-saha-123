@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,50:534AB7,100:3B6D11&height=140&section=header&text=Niloy%20Saha&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=520&lines=CS+%26+Data+Analytics+%40+Dickinson+College;Full-Stack+Developer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=520&lines=CS+%26+Data+Analytics+%40+Dickinson+College;Backend+Engineer;AI+Engineer;Building+AI-powered+software" alt="Typing SVG" />
 </p>
 
 <p>
@@ -20,12 +20,23 @@
 
 <br>
 
-<!-- Quote -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
 
-*" I don't just write code — I craft experiences, architect systems, and make machines think. "*
+<br>
 
-</div>
+##   About
+
+Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickinson College, Class of 2027, focused on **backend engineering**, **AI engineering**, and **data-driven systems**. I build production-ready software, AI-powered applications, and scalable backend systems.
+
+    `cs + data analytics`  ·  `dickinson college`  ·  `class of 2027`
+
+<br>
+
+##   What I'm Into
+
+**AI Engineering** · **Agentic AI** · **Backend Systems** · **LLM Applications**
+
+I'm particularly interested in building AI systems that go beyond simple API calls — including agentic workflows, tool use, RAG, and reliable backend infrastructure around LLMs.
 
 <br>
 
@@ -33,57 +44,7 @@
 
 <br>
 
-## &nbsp; About
-
-Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickinson College, Class of 2027, focused on **backend engineering**, **AI**, and **data-driven systems**. I build production-ready software, AI-powered applications, and scalable systems that solve real-world problems.
-
-&nbsp;&nbsp;&nbsp; `cs + data analytics` &nbsp;·&nbsp; `dickinson college` &nbsp;·&nbsp; `class of 2027`
-
-<br>
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Currently_into-C0DD97?style=flat-square&logoColor=27500A" /></td>
-    <td>LLMs &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Full-Stack Products</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Off_the_clock-CECBF6?style=flat-square&logoColor=3C3489" /></td>
-    <td>Travelling &nbsp;·&nbsp; Movies &amp; Shows &nbsp;·&nbsp; Music</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Ask_me_about-FAC775?style=flat-square&logoColor=854F0B" /></td>
-    <td>Building AI-powered apps &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; System design</td>
-  </tr>
-</table>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
-<br>
-
-## &nbsp; Currently Building
-
-> Building at the intersection of **AI** and **great software** — turning ideas into products people actually use.
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Focus-B5D4F4?style=flat-square&logoColor=185FA5"/>
-      <br><br>
-      Agentic AI workflows &nbsp;·&nbsp; LLM-powered tooling &nbsp;·&nbsp; Production-grade full-stack apps
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Learning-CECBF6?style=flat-square&logoColor=534AB7"/>
-      <br><br>
-      RAG pipelines &nbsp;·&nbsp; Model fine-tuning &nbsp;·&nbsp; Distributed systems
-    </td>
-  </tr>
-</table>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
-<br>
-
-## &nbsp; Tech Stack
+##   Tech Stack
 
 ### Languages
 
@@ -91,25 +52,7 @@ Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickins
   <img src="https://img.shields.io/badge/Python-B5D4F4?style=flat-square&logo=python&logoColor=185FA5"/>
   <img src="https://img.shields.io/badge/TypeScript-C0DD97?style=flat-square&logo=typescript&logoColor=3B6D11"/>
   <img src="https://img.shields.io/badge/JavaScript-FAC775?style=flat-square&logo=javascript&logoColor=854F0B"/>
-  <img src="https://img.shields.io/badge/Java-F5C4B3?style=flat-square&logo=openjdk&logoColor=993C1D"/>
   <img src="https://img.shields.io/badge/SQL-CECBF6?style=flat-square&logo=postgresql&logoColor=534AB7"/>
-  <img src="https://img.shields.io/badge/HTML-F5C4B3?style=flat-square&logo=html5&logoColor=993C1D"/>
-  <img src="https://img.shields.io/badge/CSS-B5D4F4?style=flat-square&logo=css3&logoColor=185FA5"/>
-  <img src="https://img.shields.io/badge/C-D3D1C7?style=flat-square&logo=c&logoColor=444441"/>
-  <img src="https://img.shields.io/badge/R-C0DD97?style=flat-square&logo=r&logoColor=3B6D11"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-B5D4F4?style=flat-square&logo=react&logoColor=185FA5"/>
-  <img src="https://img.shields.io/badge/Next.js-D3D1C7?style=flat-square&logo=nextdotjs&logoColor=2C2C2A"/>
-  <img src="https://img.shields.io/badge/Vue.js-C0DD97?style=flat-square&logo=vuedotjs&logoColor=3B6D11"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-B5D4F4?style=flat-square&logo=tailwindcss&logoColor=185FA5"/>
-  <img src="https://img.shields.io/badge/React_Native-B5D4F4?style=flat-square&logo=react&logoColor=185FA5"/>
-  <img src="https://img.shields.io/badge/Expo-D3D1C7?style=flat-square&logo=expo&logoColor=2C2C2A"/>
-  <img src="https://img.shields.io/badge/Vite-CECBF6?style=flat-square&logo=vite&logoColor=534AB7"/>
-  <img src="https://img.shields.io/badge/Axios-F5C4B3?style=flat-square&logo=axios&logoColor=993C1D"/>
 </p>
 
 ### Backend
@@ -129,15 +72,22 @@ Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickins
   <img src="https://img.shields.io/badge/WebSockets-FAC775?style=flat-square&logoColor=854F0B"/>
 </p>
 
-### Data & ML
+### AI
 
 <p>
+  <img src="https://img.shields.io/badge/LangChain-B5D4F4?style=flat-square&logo=langchain&logoColor=185FA5"/>
+  <img src="https://img.shields.io/badge/LangGraph-C0DD97?style=flat-square&logo=langchain&logoColor=3B6D11"/>
   <img src="https://img.shields.io/badge/PyTorch-F5C4B3?style=flat-square&logo=pytorch&logoColor=993C1D"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-FAC775?style=flat-square&logo=scikitlearn&logoColor=854F0B"/>
+  <img src="https://img.shields.io/badge/LLM_APIs-FAC775?style=flat-square&logoColor=854F0B"/>
+  <img src="https://img.shields.io/badge/RAG-CECBF6?style=flat-square&logoColor=534AB7"/>
+</p>
+
+### Data
+
+<p>
   <img src="https://img.shields.io/badge/NumPy-B5D4F4?style=flat-square&logo=numpy&logoColor=185FA5"/>
   <img src="https://img.shields.io/badge/Pandas-CECBF6?style=flat-square&logo=pandas&logoColor=534AB7"/>
   <img src="https://img.shields.io/badge/Matplotlib-B5D4F4?style=flat-square&logo=python&logoColor=185FA5"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-C0DD97?style=flat-square&logoColor=3B6D11"/>
 </p>
 
 ### Databases & Cloud
@@ -146,12 +96,13 @@ Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickins
   <img src="https://img.shields.io/badge/PostgreSQL-B5D4F4?style=flat-square&logo=postgresql&logoColor=185FA5"/>
   <img src="https://img.shields.io/badge/MySQL-B5D4F4?style=flat-square&logo=mysql&logoColor=185FA5"/>
   <img src="https://img.shields.io/badge/MongoDB-C0DD97?style=flat-square&logo=mongodb&logoColor=3B6D11"/>
+  <img src="https://img.shields.io/badge/Firestore-FAC775?style=flat-square&logo=firebase&logoColor=854F0B"/>
   <img src="https://img.shields.io/badge/Supabase-C0DD97?style=flat-square&logo=supabase&logoColor=3B6D11"/>
   <img src="https://img.shields.io/badge/Redis-F5C4B3?style=flat-square&logo=redis&logoColor=993C1D"/>
   <img src="https://img.shields.io/badge/AWS-FAC775?style=flat-square&logo=amazonaws&logoColor=854F0B"/>
 </p>
 
-### Tools & DevOps
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F5C4B3?style=flat-square&logo=git&logoColor=993C1D"/>
@@ -167,25 +118,28 @@ Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickins
 <p>
   <img src="https://img.shields.io/badge/Cypress-D3D1C7?style=flat-square&logo=cypress&logoColor=2C2C2A"/>
   <img src="https://img.shields.io/badge/Vitest-C0DD97?style=flat-square&logo=vitest&logoColor=3B6D11"/>
-  <img src="https://img.shields.io/badge/Selenium-C0DD97?style=flat-square&logo=selenium&logoColor=3B6D11"/>
   <img src="https://img.shields.io/badge/PyTest-B5D4F4?style=flat-square&logo=pytest&logoColor=185FA5"/>
-  <img src="https://img.shields.io/badge/JUnit-F5C4B3?style=flat-square&logo=junit5&logoColor=993C1D"/>
-</p>
-
-### AI Coding
-
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-F5C4B3?style=flat-square&logo=anthropic&logoColor=993C1D"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-D3D1C7?style=flat-square&logo=githubcopilot&logoColor=2C2C2A"/>
-  <img src="https://img.shields.io/badge/Cursor-CECBF6?style=flat-square&logoColor=534AB7"/>
-  <img src="https://img.shields.io/badge/Codex-D3D1C7?style=flat-square&logo=openai&logoColor=2C2C2A"/>
 </p>
 
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+
 <br>
 
-## &nbsp; GitHub Stats
+##   Let's Build
+
+I'm always interested in building interesting software, especially around **AI, agentic systems, and backend engineering**.
+
+**Have an idea? Let's build it.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+
+<br>
+
+##   GitHub Stats
 
 <div align="center">
 
@@ -198,22 +152,26 @@ Hi, I'm Niloy Saha. I'm a Computer Science and Data Analytics student at Dickins
 </div>
 
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+
 <br>
 
-## &nbsp; Contribution Graph
+##   Contribution Graph
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niloy-saha-123&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niloy-saha-123\&theme=tokyo-night\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:185FA5,100:534AB7&height=2&section=header" width="100%"/>
+
 <br>
 
-## &nbsp; Contribution Snake
+##   Contribution Snake
 
 <div align="center">
 
